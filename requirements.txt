@@ -1,0 +1,5 @@
+flask
+requests
+grpcio-tools
+jsonify
+grpcio
